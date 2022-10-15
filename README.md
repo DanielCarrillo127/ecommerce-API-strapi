@@ -39,4 +39,7 @@ Strapi gives you many possible deployment options for your project. Find the one
 ## 📚 Learn more
 - [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
 
+Code with 🤍 by DanielCarrillo127
+
+Credits: this project was copied from a udemy course for learning purposes
 
